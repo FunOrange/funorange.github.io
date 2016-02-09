@@ -13,6 +13,12 @@ body {
 	margin: 0px;
 	background-attachment: fixed;
 	background-position: center;
+	
+	font-family: "Myriad Pro Light";
+	font-size: 13pt;
+	letter-spacing: 0.65px;
+	line-height: 130%;
+	color: white;
 }
 
 h1 {
@@ -46,7 +52,7 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	position: center;
-	background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 16%, rgba(0,0,0,0.5) 25%);
+	background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 16%, rgba(0,0,0,0.3) 25%);
 }
 
 .side {
@@ -73,12 +79,13 @@ a {
 	height: 170px;
 	padding-left: 20px;
 	padding-top: 20px;
+	margin-bottom: -15px;
 	font-family: "Myriad Pro";
 	font-weight: bold;
 	font-size: 115px;
 }
 
-#content {
+#content-wrapper {
 	margin: 0px 70px;
 }
 
