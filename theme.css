@@ -32,6 +32,11 @@ p {
 }
 
 a {
+	font-family: "Myriad Pro Light";
+	font-size: 13pt;
+	letter-spacing: 0.65px;
+	line-height: 130%;
+	color: blue;
 	text-decoration: none;
 }
 
