@@ -11,9 +11,7 @@
 
 body {
 	margin: 0px;
-	background-image: url(bg.jpg);
 	background-attachment: fixed;
-	/*background-repeat: no-repeat;*/
 	background-position: center;
 }
 

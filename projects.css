@@ -1,0 +1,8 @@
+body {
+	background-image: url(bg-projects.jpg);
+}
+
+#banner {
+	background: linear-gradient(to bottom, rgba(228,245,252,1) 37%,rgba(191,232,249,1) 44%,rgba(159,216,239,1) 45%,rgba(42,176,237,1) 60%);
+	-webkit-background-clip: text;
+}
